@@ -1,7 +1,6 @@
 class Blogwatcher < Formula
   desc "Monitor blogs and RSS/Atom feeds"
   homepage "https://github.com/JulienTant/blogwatcher-cli"
-  version "0.2.1"
   license "MIT"
 
   on_macos do
